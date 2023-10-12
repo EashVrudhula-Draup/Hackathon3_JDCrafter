@@ -1,19 +1,22 @@
-Produce clean, efficient code based on specifications; Verify and deploy programs and systems; Responsible for system architecture and development of new features for embedded systems; Utilize various metrics sources to deliver rapid iterations of software features; Design and code the right solutions starting with broadly defined problems; Code, test, and deploy services; Develop detailed architecture and design for components and services;
-<p><strong>Emerging Functional Skills</strong></p>
+Set and implement user access controls and identity and access management systems; Monitor network and application performance to identify and irregular activity; Implement comprehensive vulnerability management systems across all assets on-premises and in the cloud; Perform regular audits to ensure security practices are compliant; Deploy endpoint detection and prevention tools to thwart malicious hacks; Looking for vulnerabilities and risks in hardware and software; Find the best way to secure the IT infrastructure of an organisation; <p><strong>Emerging </strong><strong>Functional </strong><strong>Skills:</strong></p>
 <ul>
-<li>Familiarity in Cloud Service Providers such as <strong>Amazon AWS, Microsoft Azure</strong></li>
-<li>Experience in<strong> Agile Methodologies</strong></li>
-<li>Experience in Configuration Management Tools like<strong> Chef, Puppet</strong></li>
-<li>Proficiency in Programming Languages such as <strong>Golang, Scala, Python</strong></li>
-<li>Experience in Database Management Software like <strong>Oracle DB, NOSQL, SQL</strong></li>
+<li>Security requirements analysis</li>
+<li>Security testing oversight and <strong>risk remediation planning</strong></li>
+<li>Designing <strong>firewall configurations</strong></li>
+<li>Automation frameworks such as <strong>Metasploit, Core Impact, Intruder,io and Immunity Canvas </strong></li>
+<li>Blackbox testing</li>
+<li>Wireless Penetration testing tools such as Aircrack</li>
+<li><strong>Predictive Threat Intelligence</strong></li>
+<li>SIEM Tools (Splunk, SolarWinds, McAfee Enterprise Security Manager)</li>
+<li><strong>Digital Forensics</strong></li>
+<li>Endpoint Investigation Tools</li>
 </ul>;
-<p><strong>Key Behavioural Skills</strong></p>
+<p><strong>Key Behavioral Skill</strong><strong>s</strong></p>
 <ul>
-<li><strong>Collaborative</strong></li>
-<li>Innovative</li>
-<li><strong>Result Oriented</strong></li>
-<li>Team Oriented</li>
-<li><strong>Analytical</strong></li>
-<li>Methodical</li>
-<li><strong>Reasoning</strong></li>
+<li><strong>Interpersonal Skills</strong></li>
+<li>Analytical</li>
+<li>Collaboration</li>
+<li><strong>Adaptable</strong></li>
+<li><strong>Problem Solving</strong></li>
+<li>Passion</li>
 </ul>
