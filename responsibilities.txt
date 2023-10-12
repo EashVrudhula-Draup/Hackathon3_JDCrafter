@@ -1,0 +1,19 @@
+Produce clean, efficient code based on specifications; Verify and deploy programs and systems; Responsible for system architecture and development of new features for embedded systems; Utilize various metrics sources to deliver rapid iterations of software features; Design and code the right solutions starting with broadly defined problems; Code, test, and deploy services; Develop detailed architecture and design for components and services;
+<p><strong>Emerging Functional Skills</strong></p>
+<ul>
+<li>Familiarity in Cloud Service Providers such as <strong>Amazon AWS, Microsoft Azure</strong></li>
+<li>Experience in<strong> Agile Methodologies</strong></li>
+<li>Experience in Configuration Management Tools like<strong> Chef, Puppet</strong></li>
+<li>Proficiency in Programming Languages such as <strong>Golang, Scala, Python</strong></li>
+<li>Experience in Database Management Software like <strong>Oracle DB, NOSQL, SQL</strong></li>
+</ul>;
+<p><strong>Key Behavioural Skills</strong></p>
+<ul>
+<li><strong>Collaborative</strong></li>
+<li>Innovative</li>
+<li><strong>Result Oriented</strong></li>
+<li>Team Oriented</li>
+<li><strong>Analytical</strong></li>
+<li>Methodical</li>
+<li><strong>Reasoning</strong></li>
+</ul>

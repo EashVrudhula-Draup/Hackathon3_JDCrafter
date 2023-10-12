@@ -1,0 +1,46 @@
+Data Engineer
+Identify opportunities for process improvements within the team, such as automation and advise on solutions
+Build distributed, reliable and scalable data pipelines to ingest and process data analytics in real-time
+Develop and implement data pipelines that extracts, transforms and loads data into information that helps to inform others of fraudulent or suspicious behaviours
+Translate business and functional requirements into robust, scalable, operable solutions that work well within the overall data architecture
+Improve consistency, reduce effort and expand the ability of data scientists to address the growing range of business problems from prediction to prescription
+Evaluate and plans software designs, test results and technical manuals
+Emerging Functional Skills
+
+Experience in Cloud Computing Platform such as Amazon AWS, Google GCP, Microsoft Azure, S3, EC2
+Knowledge of Scrum Methodologies
+Knowledge of CI & CD using Jenkins
+Experience in Big Data Tools like Qubole, Statwing
+Experience with ETL Tool like Pervasive
+Key Behavioural Skills
+
+Analytical
+Team Player
+Methodical
+Self Driven
+Curious
+Prioritizing
+
+
+Responsibilities of a Data Engineer:
+1. Identify opportunities for process improvements within the team, such as automation, and advise on solutions.
+2. Build distributed, reliable, and scalable data pipelines to ingest and process data analytics in real-time.
+3. Develop and implement data pipelines that extract, transform, and load data into information that helps to inform others of fraudulent or suspicious behaviors.
+4. Translate business and functional requirements into robust, scalable, operable solutions that work well within the overall data architecture.
+5. Improve consistency, reduce effort, and expand the ability of data scientists to address a growing range of business problems from prediction to prescription.
+6. Evaluate and plan software designs, test results, and technical manuals.
+
+Skills required for a Data Engineer job description:
+1. Experience in Cloud Computing Platforms such as Amazon AWS, Google GCP, Microsoft Azure, S3, EC2.
+2. Knowledge of Scrum Methodologies.
+3. Knowledge of CI & CD using Jenkins.
+4. Experience in Big Data Tools like Qubole, Statwing.
+5. Experience with ETL Tools like Pervasive.
+6. Analytical skills.
+7. Team player.
+8. Methodical approach.
+9. Self-driven.
+10. Curiosity.
+11. Prioritizing skills.
+
+Salary for a Data Engineer in Bangalore with 4 years of experience can vary depending on the company, industry, and individual negotiation. However, on average, a Data Engineer with 4 years of experience in Bangalore can expect a salary range of INR 8-15 lakhs per annum.
